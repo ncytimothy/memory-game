@@ -1,9 +1,5 @@
 # Memory Game Project
 
-Link to the live version:
-
-http://ncytimothy.github.io/memorycardgame
-
 # Description
 Memory Game Project is a simple memory game. Users are presented with a game board with 8 pairs of cards to be matched. The objective is to match the cards with the same symbols on them. 
 
